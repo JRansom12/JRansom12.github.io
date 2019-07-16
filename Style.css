@@ -1,0 +1,47 @@
+#bigID{
+	font-size: 40px;
+}
+#smallID{
+	font-size: 20px;
+}
+body{
+	background-color: mediumseagreen;
+}
+h1{
+	color: darkgreen;
+}
+h2{
+	color: forestgreen;
+}
+h3{
+	color: darkgreen;
+}
+#color1{
+	color: white;
+	font-size: 20px
+}
+#color11{
+	color: white;
+}
+#color2{
+	color: black;
+	font-size: 20px;
+}
+#color3{
+	color: forestgreen;
+	font-size: 40px;
+}
+footer{
+	padding: 25px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+a:link{
+	color: darkblue;
+	font-size: 20px
+}
+a:visited{
+	color: purple;
+	font-size: 20px
+}
